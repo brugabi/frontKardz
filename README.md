@@ -15,10 +15,4 @@
 ### 🚧 Funcionalidades (em desenvolvimento):
 - Criação e organização de decks de flashcards  
 - Sistema de repetição espaçada  
-- Estatísticas de aprendizado em tempo real  
 - Interface limpa, responsiva e amigável  
-- Compartilhamento e importação de decks  
-- Suporte para diferentes formatos de conteúdo (texto, imagem, áudio)
-
-### 🤝 Contribuições:
-Este é um projeto open source e colaborações são bem-vindas! Sinta-se à vontade para abrir *issues*, sugerir melhorias ou enviar *pull requests*.
